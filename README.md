@@ -26,7 +26,7 @@
 
 <div align="center">
  
-<img src="" margin-left="200px">
+<img src="https://github.com/EvertonDepla/Shopping-Cart/blob/master/assets/shopping-cart-tablet.PNG?raw=true" margin-left="200px">
 
  </div>
  <footer>
