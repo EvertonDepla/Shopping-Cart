@@ -1,3 +1,4 @@
+/*
 const valorTotal = [0,0]
 const valorProduto = [50.00,30.00]
 const qtd = [0,0]
@@ -38,4 +39,4 @@ function valorCompra(){
 
     valorTotalCompra.innerHTML = valor.toFixed(2)
 
-}
+}*/
