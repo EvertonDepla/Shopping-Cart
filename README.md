@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="" alt="print-site2" width="300px">
+<img src="https://github.com/EvertonDepla/Shopping-Cart/blob/master/assets/shopping-cart-mobile.PNG?raw=true" alt="print-site2" width="300px">
 
 </div>
 
